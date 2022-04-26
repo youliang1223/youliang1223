@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到阿良的github!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=此时一个帅气的小哥哥或是漂亮的小姐姐正在看阿良的github;欢迎来到阿良的github!&center=true&size=27">
 </h1>
 你好呀！我是阿良！
 

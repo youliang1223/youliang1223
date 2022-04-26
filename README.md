@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?;欢迎来到阿良的github!&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?欢迎来到阿良的github!&center=true&size=27">
 </h1>
 你好呀！我是阿良！
 

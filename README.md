@@ -16,5 +16,9 @@
 
 <a href="https://blog.csdn.net/weixin_57611815">点击关注我的博客</a>
 
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=youliang1223)](https://github.com/youliang1223)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youliang1223)](https://github.com/youliang1223)
